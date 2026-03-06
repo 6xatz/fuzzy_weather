@@ -1,0 +1,32 @@
+[
+    {
+        "time": 1765935066,
+        "city": "Manual Input",
+        "temperature": 28.2,
+        "humidity": 76,
+        "wind": 10,
+        "action": "Jalan santai teduh",
+        "confidence": 0.2714285714285714,
+        "user": "admin"
+    },
+    {
+        "time": 1765935400,
+        "city": "Jakarta",
+        "temperature": 28.2,
+        "humidity": 76,
+        "wind": 10,
+        "action": "Jalan santai teduh",
+        "confidence": 0.2714285714285714,
+        "user": "admin"
+    },
+    {
+        "time": 1765935420,
+        "city": "Yogyakarta",
+        "temperature": 27.7,
+        "humidity": 76,
+        "wind": 10.4,
+        "action": "Indoor ringan",
+        "confidence": 0.27428571428571435,
+        "user": "admin"
+    }
+]
